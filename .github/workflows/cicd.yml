@@ -1,4 +1,4 @@
-# Triggers
+# Triggers ...
 on:
   push:
     branches:
